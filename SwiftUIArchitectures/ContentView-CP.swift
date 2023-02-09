@@ -8,6 +8,7 @@
 import SwiftUI
 
 /*--------CP{CONTAINER PATTERN} ARCHITECTURE--------------*/
+//Downside: Its hard to test
 
 // PRESENTER VIEW
 struct ProductListView: View {

@@ -18,6 +18,7 @@
 		6FD04D642993812B003646B3 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD04D632993812B003646B3 /* Product.swift */; };
 		6FD04D6729938775003646B3 /* ContentView-MV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD04D6629938775003646B3 /* ContentView-MV.swift */; };
 		6FD04D69299387EA003646B3 /* ContentView-CP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD04D68299387EA003646B3 /* ContentView-CP.swift */; };
+		6FD04D6B2994C44F003646B3 /* ContentView-Redux.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD04D6A2994C44F003646B3 /* ContentView-Redux.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		6FD04D632993812B003646B3 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		6FD04D6629938775003646B3 /* ContentView-MV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-MV.swift"; sourceTree = "<group>"; };
 		6FD04D68299387EA003646B3 /* ContentView-CP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-CP.swift"; sourceTree = "<group>"; };
+		6FD04D6A2994C44F003646B3 /* ContentView-Redux.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-Redux.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6FD04D382993809C003646B3 /* ContentView-MVVM.swift */,
 				6FD04D6629938775003646B3 /* ContentView-MV.swift */,
 				6FD04D68299387EA003646B3 /* ContentView-CP.swift */,
+				6FD04D6A2994C44F003646B3 /* ContentView-Redux.swift */,
 				6FD04D652993812F003646B3 /* Models */,
 				6FD04D62299380D8003646B3 /* Services */,
 				6FD04D3A2993809D003646B3 /* Assets.xcassets */,
@@ -291,6 +294,7 @@
 				6FD04D6729938775003646B3 /* ContentView-MV.swift in Sources */,
 				6FD04D372993809C003646B3 /* SwiftUIArchitecturesApp.swift in Sources */,
 				6FD04D61299380D3003646B3 /* Webservice.swift in Sources */,
+				6FD04D6B2994C44F003646B3 /* ContentView-Redux.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

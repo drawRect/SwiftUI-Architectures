@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIArchitecturesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentViewCP()
+            ContentViewMVVM()
         }
     }
 }
